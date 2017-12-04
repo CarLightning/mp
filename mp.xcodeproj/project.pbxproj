@@ -12,6 +12,17 @@
 		8445DDF11FD52E4700932165 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8445DDEF1FD52E4700932165 /* LaunchScreen.storyboard */; };
 		8445DDF41FD52E4700932165 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8445DDF31FD52E4700932165 /* main.m */; };
 		95DB6AA0A220B41A3354C40A /* libPods-mp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BC772C344A842E08ED6B79A3 /* libPods-mp.a */; };
+		EB5105091FD57DE5007883FC /* MPWebLine.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105081FD57DE5007883FC /* MPWebLine.m */; };
+		EB5105121FD581FC007883FC /* MPTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105111FD581FC007883FC /* MPTabBarController.m */; };
+		EB5105151FD58239007883FC /* MPBaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105141FD58239007883FC /* MPBaseNavigationController.m */; };
+		EB5105181FD5828F007883FC /* MPBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105171FD5828F007883FC /* MPBaseViewController.m */; };
+		EB51051B1FD583D9007883FC /* MPTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = EB51051A1FD583D9007883FC /* MPTableView.m */; };
+		EB51051E1FD5840F007883FC /* MPCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = EB51051D1FD5840F007883FC /* MPCollectionView.m */; };
+		EB5105211FD58533007883FC /* MPStoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105201FD58533007883FC /* MPStoreViewController.m */; };
+		EB5105241FD5854C007883FC /* MPSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105231FD5854C007883FC /* MPSearchViewController.m */; };
+		EB5105271FD58587007883FC /* MPChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105261FD58587007883FC /* MPChatViewController.m */; };
+		EB51052A1FD58603007883FC /* MPBuyTicketsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105291FD58603007883FC /* MPBuyTicketsViewController.m */; };
+		EB51052D1FD58626007883FC /* MPShelfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB51052C1FD58626007883FC /* MPShelfViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +36,28 @@
 		8445DDF31FD52E4700932165 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BC772C344A842E08ED6B79A3 /* libPods-mp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-mp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6FC6D9ADE3137917782718B /* Pods-mp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-mp/Pods-mp.debug.xcconfig"; sourceTree = "<group>"; };
+		EB5105071FD57DE5007883FC /* MPWebLine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPWebLine.h; sourceTree = "<group>"; };
+		EB5105081FD57DE5007883FC /* MPWebLine.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPWebLine.m; sourceTree = "<group>"; };
+		EB5105101FD581FC007883FC /* MPTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPTabBarController.h; sourceTree = "<group>"; };
+		EB5105111FD581FC007883FC /* MPTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPTabBarController.m; sourceTree = "<group>"; };
+		EB5105131FD58239007883FC /* MPBaseNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPBaseNavigationController.h; sourceTree = "<group>"; };
+		EB5105141FD58239007883FC /* MPBaseNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPBaseNavigationController.m; sourceTree = "<group>"; };
+		EB5105161FD5828F007883FC /* MPBaseViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPBaseViewController.h; sourceTree = "<group>"; };
+		EB5105171FD5828F007883FC /* MPBaseViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPBaseViewController.m; sourceTree = "<group>"; };
+		EB5105191FD583D9007883FC /* MPTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPTableView.h; sourceTree = "<group>"; };
+		EB51051A1FD583D9007883FC /* MPTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPTableView.m; sourceTree = "<group>"; };
+		EB51051C1FD5840F007883FC /* MPCollectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPCollectionView.h; sourceTree = "<group>"; };
+		EB51051D1FD5840F007883FC /* MPCollectionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPCollectionView.m; sourceTree = "<group>"; };
+		EB51051F1FD58533007883FC /* MPStoreViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPStoreViewController.h; sourceTree = "<group>"; };
+		EB5105201FD58533007883FC /* MPStoreViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPStoreViewController.m; sourceTree = "<group>"; };
+		EB5105221FD5854C007883FC /* MPSearchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPSearchViewController.h; sourceTree = "<group>"; };
+		EB5105231FD5854C007883FC /* MPSearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPSearchViewController.m; sourceTree = "<group>"; };
+		EB5105251FD58587007883FC /* MPChatViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPChatViewController.h; sourceTree = "<group>"; };
+		EB5105261FD58587007883FC /* MPChatViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPChatViewController.m; sourceTree = "<group>"; };
+		EB5105281FD58603007883FC /* MPBuyTicketsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPBuyTicketsViewController.h; sourceTree = "<group>"; };
+		EB5105291FD58603007883FC /* MPBuyTicketsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPBuyTicketsViewController.m; sourceTree = "<group>"; };
+		EB51052B1FD58626007883FC /* MPShelfViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPShelfViewController.h; sourceTree = "<group>"; };
+		EB51052C1FD58626007883FC /* MPShelfViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPShelfViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,7 +124,6 @@
 				8445DDE51FD52E4700932165 /* MPAppDelegate.m */,
 				8445DDFB1FD52FAB00932165 /* Controllers  */,
 				8445DDFC1FD52FAB00932165 /* Models */,
-				8445DDFD1FD52FAB00932165 /* Views */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -99,6 +131,16 @@
 		8445DDFB1FD52FAB00932165 /* Controllers  */ = {
 			isa = PBXGroup;
 			children = (
+				EB5105101FD581FC007883FC /* MPTabBarController.h */,
+				EB5105111FD581FC007883FC /* MPTabBarController.m */,
+				EB5105131FD58239007883FC /* MPBaseNavigationController.h */,
+				EB5105141FD58239007883FC /* MPBaseNavigationController.m */,
+				EB5105161FD5828F007883FC /* MPBaseViewController.h */,
+				EB5105171FD5828F007883FC /* MPBaseViewController.m */,
+				EB5105191FD583D9007883FC /* MPTableView.h */,
+				EB51051A1FD583D9007883FC /* MPTableView.m */,
+				EB51051C1FD5840F007883FC /* MPCollectionView.h */,
+				EB51051D1FD5840F007883FC /* MPCollectionView.m */,
 			);
 			path = "Controllers ";
 			sourceTree = "<group>";
@@ -106,15 +148,10 @@
 		8445DDFC1FD52FAB00932165 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				EB5105071FD57DE5007883FC /* MPWebLine.h */,
+				EB5105081FD57DE5007883FC /* MPWebLine.m */,
 			);
 			path = Models;
-			sourceTree = "<group>";
-		};
-		8445DDFD1FD52FAB00932165 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
 			sourceTree = "<group>";
 		};
 		8445DDFE1FD52FC600932165 /* 精品 */ = {
@@ -130,6 +167,8 @@
 		8445DDFF1FD52FC600932165 /* Controllers  */ = {
 			isa = PBXGroup;
 			children = (
+				EB51051F1FD58533007883FC /* MPStoreViewController.h */,
+				EB5105201FD58533007883FC /* MPStoreViewController.m */,
 			);
 			path = "Controllers ";
 			sourceTree = "<group>";
@@ -161,6 +200,8 @@
 		8445DE031FD52FCD00932165 /* Controllers  */ = {
 			isa = PBXGroup;
 			children = (
+				EB5105221FD5854C007883FC /* MPSearchViewController.h */,
+				EB5105231FD5854C007883FC /* MPSearchViewController.m */,
 			);
 			path = "Controllers ";
 			sourceTree = "<group>";
@@ -192,6 +233,8 @@
 		8445DE071FD52FD300932165 /* Controllers  */ = {
 			isa = PBXGroup;
 			children = (
+				EB5105251FD58587007883FC /* MPChatViewController.h */,
+				EB5105261FD58587007883FC /* MPChatViewController.m */,
 			);
 			path = "Controllers ";
 			sourceTree = "<group>";
@@ -223,6 +266,8 @@
 		8445DE0B1FD52FD800932165 /* Controllers  */ = {
 			isa = PBXGroup;
 			children = (
+				EB5105281FD58603007883FC /* MPBuyTicketsViewController.h */,
+				EB5105291FD58603007883FC /* MPBuyTicketsViewController.m */,
 			);
 			path = "Controllers ";
 			sourceTree = "<group>";
@@ -254,6 +299,8 @@
 		8445DE0F1FD52FDF00932165 /* Controllers  */ = {
 			isa = PBXGroup;
 			children = (
+				EB51052B1FD58626007883FC /* MPShelfViewController.h */,
+				EB51052C1FD58626007883FC /* MPShelfViewController.m */,
 			);
 			path = "Controllers ";
 			sourceTree = "<group>";
@@ -409,7 +456,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB5105271FD58587007883FC /* MPChatViewController.m in Sources */,
+				EB51051B1FD583D9007883FC /* MPTableView.m in Sources */,
+				EB51051E1FD5840F007883FC /* MPCollectionView.m in Sources */,
+				EB5105121FD581FC007883FC /* MPTabBarController.m in Sources */,
+				EB5105211FD58533007883FC /* MPStoreViewController.m in Sources */,
+				EB51052D1FD58626007883FC /* MPShelfViewController.m in Sources */,
 				8445DDF41FD52E4700932165 /* main.m in Sources */,
+				EB5105181FD5828F007883FC /* MPBaseViewController.m in Sources */,
+				EB5105091FD57DE5007883FC /* MPWebLine.m in Sources */,
+				EB5105241FD5854C007883FC /* MPSearchViewController.m in Sources */,
+				EB5105151FD58239007883FC /* MPBaseNavigationController.m in Sources */,
+				EB51052A1FD58603007883FC /* MPBuyTicketsViewController.m in Sources */,
 				8445DDE61FD52E4700932165 /* MPAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
