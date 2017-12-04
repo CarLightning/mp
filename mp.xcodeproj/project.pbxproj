@@ -58,6 +58,7 @@
 		EB5105461FD5888C007883FC /* MPSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPSearchViewController.m; sourceTree = "<group>"; };
 		EB51054C1FD5889D007883FC /* MPBuyTicketsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPBuyTicketsViewController.h; sourceTree = "<group>"; };
 		EB51054D1FD5889D007883FC /* MPBuyTicketsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPBuyTicketsViewController.m; sourceTree = "<group>"; };
+		EB5105521FD58BA3007883FC /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = PrefixHeader.pch; path = mp/PrefixHeader.pch; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +123,7 @@
 			children = (
 				8445DDE41FD52E4700932165 /* MPAppDelegate.h */,
 				8445DDE51FD52E4700932165 /* MPAppDelegate.m */,
+				EB5105521FD58BA3007883FC /* PrefixHeader.pch */,
 				8445DDFB1FD52FAB00932165 /* Controllers  */,
 				8445DDFC1FD52FAB00932165 /* Models */,
 			);
@@ -597,6 +599,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/mp/PrefixHeader.pch";
 				INFOPLIST_FILE = mp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mpproject.mp;
@@ -611,6 +614,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/mp/PrefixHeader.pch";
 				INFOPLIST_FILE = mp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mpproject.mp;

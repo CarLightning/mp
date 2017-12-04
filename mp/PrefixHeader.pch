@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  mp
+//
+//  Created by LH on 2017/12/4.
+//  Copyright © 2017年 admin. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#define LHColor [UIColor colorWithRed:255.0f/255.0f green:137.0f/255.0f blue:6.0f/255.0f alpha:1.0f]
+
+
+#endif /* PrefixHeader_pch */

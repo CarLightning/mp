@@ -30,7 +30,7 @@
     [[UIApplication sharedApplication] setApplicationIconBadgeNumber:0];
     NSShadow *shadow = [NSShadow.alloc init];
     shadow.shadowColor = [UIColor clearColor];
-    [[UINavigationBar appearance] setTitleTextAttributes:[NSDictionary dictionaryWithObjectsAndKeys:[UIColor colorWithRed:255.0f/255.0f green:137.0f/255.0f blue:6.0f/255.0f alpha:1.0f], NSForegroundColorAttributeName, shadow, NSShadowAttributeName, nil]];
+    [[UINavigationBar appearance] setTitleTextAttributes:[NSDictionary dictionaryWithObjectsAndKeys:LHColor, NSForegroundColorAttributeName, shadow, NSShadowAttributeName, nil]];
     
     [[UINavigationBar appearance] setBarTintColor:[UIColor whiteColor]];
     
@@ -41,7 +41,7 @@
     
     [[AFNetworkReachabilityManager sharedManager] startMonitoring];
     
-    
+
     return YES;
 }
 
