@@ -18,11 +18,11 @@
 		EB5105181FD5828F007883FC /* MPBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105171FD5828F007883FC /* MPBaseViewController.m */; };
 		EB51051B1FD583D9007883FC /* MPTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = EB51051A1FD583D9007883FC /* MPTableView.m */; };
 		EB51051E1FD5840F007883FC /* MPCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = EB51051D1FD5840F007883FC /* MPCollectionView.m */; };
-		EB5105211FD58533007883FC /* MPStoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105201FD58533007883FC /* MPStoreViewController.m */; };
-		EB5105241FD5854C007883FC /* MPSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105231FD5854C007883FC /* MPSearchViewController.m */; };
-		EB5105271FD58587007883FC /* MPChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105261FD58587007883FC /* MPChatViewController.m */; };
-		EB51052A1FD58603007883FC /* MPBuyTicketsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105291FD58603007883FC /* MPBuyTicketsViewController.m */; };
-		EB51052D1FD58626007883FC /* MPShelfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB51052C1FD58626007883FC /* MPShelfViewController.m */; };
+		EB5105341FD5884D007883FC /* MPStoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105311FD5884D007883FC /* MPStoreViewController.m */; };
+		EB51053B1FD58872007883FC /* MPChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105381FD58872007883FC /* MPChatViewController.m */; };
+		EB5105421FD5887E007883FC /* MPShelfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB51053F1FD5887E007883FC /* MPShelfViewController.m */; };
+		EB5105491FD5888C007883FC /* MPSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5105461FD5888C007883FC /* MPSearchViewController.m */; };
+		EB5105501FD5889D007883FC /* MPBuyTicketsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB51054D1FD5889D007883FC /* MPBuyTicketsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,16 +48,16 @@
 		EB51051A1FD583D9007883FC /* MPTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPTableView.m; sourceTree = "<group>"; };
 		EB51051C1FD5840F007883FC /* MPCollectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPCollectionView.h; sourceTree = "<group>"; };
 		EB51051D1FD5840F007883FC /* MPCollectionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPCollectionView.m; sourceTree = "<group>"; };
-		EB51051F1FD58533007883FC /* MPStoreViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPStoreViewController.h; sourceTree = "<group>"; };
-		EB5105201FD58533007883FC /* MPStoreViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPStoreViewController.m; sourceTree = "<group>"; };
-		EB5105221FD5854C007883FC /* MPSearchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPSearchViewController.h; sourceTree = "<group>"; };
-		EB5105231FD5854C007883FC /* MPSearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPSearchViewController.m; sourceTree = "<group>"; };
-		EB5105251FD58587007883FC /* MPChatViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPChatViewController.h; sourceTree = "<group>"; };
-		EB5105261FD58587007883FC /* MPChatViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPChatViewController.m; sourceTree = "<group>"; };
-		EB5105281FD58603007883FC /* MPBuyTicketsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPBuyTicketsViewController.h; sourceTree = "<group>"; };
-		EB5105291FD58603007883FC /* MPBuyTicketsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPBuyTicketsViewController.m; sourceTree = "<group>"; };
-		EB51052B1FD58626007883FC /* MPShelfViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPShelfViewController.h; sourceTree = "<group>"; };
-		EB51052C1FD58626007883FC /* MPShelfViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPShelfViewController.m; sourceTree = "<group>"; };
+		EB5105301FD5884D007883FC /* MPStoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPStoreViewController.h; sourceTree = "<group>"; };
+		EB5105311FD5884D007883FC /* MPStoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPStoreViewController.m; sourceTree = "<group>"; };
+		EB5105371FD58872007883FC /* MPChatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPChatViewController.h; sourceTree = "<group>"; };
+		EB5105381FD58872007883FC /* MPChatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPChatViewController.m; sourceTree = "<group>"; };
+		EB51053E1FD5887E007883FC /* MPShelfViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPShelfViewController.h; sourceTree = "<group>"; };
+		EB51053F1FD5887E007883FC /* MPShelfViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPShelfViewController.m; sourceTree = "<group>"; };
+		EB5105451FD5888C007883FC /* MPSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPSearchViewController.h; sourceTree = "<group>"; };
+		EB5105461FD5888C007883FC /* MPSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPSearchViewController.m; sourceTree = "<group>"; };
+		EB51054C1FD5889D007883FC /* MPBuyTicketsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPBuyTicketsViewController.h; sourceTree = "<group>"; };
+		EB51054D1FD5889D007883FC /* MPBuyTicketsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPBuyTicketsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,11 +104,11 @@
 			isa = PBXGroup;
 			children = (
 				8445DDFA1FD52FAB00932165 /* Main */,
-				8445DDFE1FD52FC600932165 /* 精品 */,
-				8445DE021FD52FCD00932165 /* 搜索 */,
-				8445DE061FD52FD300932165 /* 聊吧 */,
-				8445DE0A1FD52FD800932165 /* 购票 */,
-				8445DE0E1FD52FDF00932165 /* 书架 */,
+				EB51052E1FD5884D007883FC /* Store */,
+				EB5105431FD5888C007883FC /* Search */,
+				EB5105351FD58872007883FC /* Chats */,
+				EB51054A1FD5889D007883FC /* BuyTickets */,
+				EB51053C1FD5887E007883FC /* Shelf */,
 				8445DDED1FD52E4700932165 /* Assets.xcassets */,
 				8445DDEF1FD52E4700932165 /* LaunchScreen.storyboard */,
 				8445DDF21FD52E4700932165 /* Info.plist */,
@@ -154,177 +154,178 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
-		8445DDFE1FD52FC600932165 /* 精品 */ = {
-			isa = PBXGroup;
-			children = (
-				8445DDFF1FD52FC600932165 /* Controllers  */,
-				8445DE001FD52FC600932165 /* Models */,
-				8445DE011FD52FC600932165 /* Views */,
-			);
-			path = "精品";
-			sourceTree = "<group>";
-		};
-		8445DDFF1FD52FC600932165 /* Controllers  */ = {
-			isa = PBXGroup;
-			children = (
-				EB51051F1FD58533007883FC /* MPStoreViewController.h */,
-				EB5105201FD58533007883FC /* MPStoreViewController.m */,
-			);
-			path = "Controllers ";
-			sourceTree = "<group>";
-		};
-		8445DE001FD52FC600932165 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
-		8445DE011FD52FC600932165 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		8445DE021FD52FCD00932165 /* 搜索 */ = {
-			isa = PBXGroup;
-			children = (
-				8445DE031FD52FCD00932165 /* Controllers  */,
-				8445DE041FD52FCD00932165 /* Models */,
-				8445DE051FD52FCD00932165 /* Views */,
-			);
-			path = "搜索";
-			sourceTree = "<group>";
-		};
-		8445DE031FD52FCD00932165 /* Controllers  */ = {
-			isa = PBXGroup;
-			children = (
-				EB5105221FD5854C007883FC /* MPSearchViewController.h */,
-				EB5105231FD5854C007883FC /* MPSearchViewController.m */,
-			);
-			path = "Controllers ";
-			sourceTree = "<group>";
-		};
-		8445DE041FD52FCD00932165 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
-		8445DE051FD52FCD00932165 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		8445DE061FD52FD300932165 /* 聊吧 */ = {
-			isa = PBXGroup;
-			children = (
-				8445DE071FD52FD300932165 /* Controllers  */,
-				8445DE081FD52FD300932165 /* Models */,
-				8445DE091FD52FD300932165 /* Views */,
-			);
-			path = "聊吧";
-			sourceTree = "<group>";
-		};
-		8445DE071FD52FD300932165 /* Controllers  */ = {
-			isa = PBXGroup;
-			children = (
-				EB5105251FD58587007883FC /* MPChatViewController.h */,
-				EB5105261FD58587007883FC /* MPChatViewController.m */,
-			);
-			path = "Controllers ";
-			sourceTree = "<group>";
-		};
-		8445DE081FD52FD300932165 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
-		8445DE091FD52FD300932165 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		8445DE0A1FD52FD800932165 /* 购票 */ = {
-			isa = PBXGroup;
-			children = (
-				8445DE0B1FD52FD800932165 /* Controllers  */,
-				8445DE0C1FD52FD800932165 /* Models */,
-				8445DE0D1FD52FD800932165 /* Views */,
-			);
-			path = "购票";
-			sourceTree = "<group>";
-		};
-		8445DE0B1FD52FD800932165 /* Controllers  */ = {
-			isa = PBXGroup;
-			children = (
-				EB5105281FD58603007883FC /* MPBuyTicketsViewController.h */,
-				EB5105291FD58603007883FC /* MPBuyTicketsViewController.m */,
-			);
-			path = "Controllers ";
-			sourceTree = "<group>";
-		};
-		8445DE0C1FD52FD800932165 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
-		8445DE0D1FD52FD800932165 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		8445DE0E1FD52FDF00932165 /* 书架 */ = {
-			isa = PBXGroup;
-			children = (
-				8445DE0F1FD52FDF00932165 /* Controllers  */,
-				8445DE101FD52FDF00932165 /* Models */,
-				8445DE111FD52FDF00932165 /* Views */,
-			);
-			path = "书架";
-			sourceTree = "<group>";
-		};
-		8445DE0F1FD52FDF00932165 /* Controllers  */ = {
-			isa = PBXGroup;
-			children = (
-				EB51052B1FD58626007883FC /* MPShelfViewController.h */,
-				EB51052C1FD58626007883FC /* MPShelfViewController.m */,
-			);
-			path = "Controllers ";
-			sourceTree = "<group>";
-		};
-		8445DE101FD52FDF00932165 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
-		8445DE111FD52FDF00932165 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
 		B2E304B3C7B89C597E67520D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				BC772C344A842E08ED6B79A3 /* libPods-mp.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EB51052E1FD5884D007883FC /* Store */ = {
+			isa = PBXGroup;
+			children = (
+				EB51052F1FD5884D007883FC /* Controllers  */,
+				EB5105321FD5884D007883FC /* Models */,
+				EB5105331FD5884D007883FC /* Views */,
+			);
+			name = Store;
+			path = mp/Store;
+			sourceTree = SOURCE_ROOT;
+		};
+		EB51052F1FD5884D007883FC /* Controllers  */ = {
+			isa = PBXGroup;
+			children = (
+				EB5105301FD5884D007883FC /* MPStoreViewController.h */,
+				EB5105311FD5884D007883FC /* MPStoreViewController.m */,
+			);
+			path = "Controllers ";
+			sourceTree = "<group>";
+		};
+		EB5105321FD5884D007883FC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EB5105331FD5884D007883FC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EB5105351FD58872007883FC /* Chats */ = {
+			isa = PBXGroup;
+			children = (
+				EB5105361FD58872007883FC /* Controllers  */,
+				EB5105391FD58872007883FC /* Models */,
+				EB51053A1FD58872007883FC /* Views */,
+			);
+			path = Chats;
+			sourceTree = "<group>";
+		};
+		EB5105361FD58872007883FC /* Controllers  */ = {
+			isa = PBXGroup;
+			children = (
+				EB5105371FD58872007883FC /* MPChatViewController.h */,
+				EB5105381FD58872007883FC /* MPChatViewController.m */,
+			);
+			path = "Controllers ";
+			sourceTree = "<group>";
+		};
+		EB5105391FD58872007883FC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EB51053A1FD58872007883FC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EB51053C1FD5887E007883FC /* Shelf */ = {
+			isa = PBXGroup;
+			children = (
+				EB51053D1FD5887E007883FC /* Controllers  */,
+				EB5105401FD5887E007883FC /* Models */,
+				EB5105411FD5887E007883FC /* Views */,
+			);
+			path = Shelf;
+			sourceTree = "<group>";
+		};
+		EB51053D1FD5887E007883FC /* Controllers  */ = {
+			isa = PBXGroup;
+			children = (
+				EB51053E1FD5887E007883FC /* MPShelfViewController.h */,
+				EB51053F1FD5887E007883FC /* MPShelfViewController.m */,
+			);
+			path = "Controllers ";
+			sourceTree = "<group>";
+		};
+		EB5105401FD5887E007883FC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EB5105411FD5887E007883FC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EB5105431FD5888C007883FC /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				EB5105441FD5888C007883FC /* Controllers  */,
+				EB5105471FD5888C007883FC /* Models */,
+				EB5105481FD5888C007883FC /* Views */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		EB5105441FD5888C007883FC /* Controllers  */ = {
+			isa = PBXGroup;
+			children = (
+				EB5105451FD5888C007883FC /* MPSearchViewController.h */,
+				EB5105461FD5888C007883FC /* MPSearchViewController.m */,
+			);
+			path = "Controllers ";
+			sourceTree = "<group>";
+		};
+		EB5105471FD5888C007883FC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EB5105481FD5888C007883FC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EB51054A1FD5889D007883FC /* BuyTickets */ = {
+			isa = PBXGroup;
+			children = (
+				EB51054B1FD5889D007883FC /* Controllers  */,
+				EB51054E1FD5889D007883FC /* Models */,
+				EB51054F1FD5889D007883FC /* Views */,
+			);
+			path = BuyTickets;
+			sourceTree = "<group>";
+		};
+		EB51054B1FD5889D007883FC /* Controllers  */ = {
+			isa = PBXGroup;
+			children = (
+				EB51054C1FD5889D007883FC /* MPBuyTicketsViewController.h */,
+				EB51054D1FD5889D007883FC /* MPBuyTicketsViewController.m */,
+			);
+			path = "Controllers ";
+			sourceTree = "<group>";
+		};
+		EB51054E1FD5889D007883FC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EB51054F1FD5889D007883FC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -456,18 +457,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB5105271FD58587007883FC /* MPChatViewController.m in Sources */,
 				EB51051B1FD583D9007883FC /* MPTableView.m in Sources */,
 				EB51051E1FD5840F007883FC /* MPCollectionView.m in Sources */,
+				EB5105421FD5887E007883FC /* MPShelfViewController.m in Sources */,
 				EB5105121FD581FC007883FC /* MPTabBarController.m in Sources */,
-				EB5105211FD58533007883FC /* MPStoreViewController.m in Sources */,
-				EB51052D1FD58626007883FC /* MPShelfViewController.m in Sources */,
+				EB5105341FD5884D007883FC /* MPStoreViewController.m in Sources */,
+				EB5105491FD5888C007883FC /* MPSearchViewController.m in Sources */,
 				8445DDF41FD52E4700932165 /* main.m in Sources */,
+				EB51053B1FD58872007883FC /* MPChatViewController.m in Sources */,
 				EB5105181FD5828F007883FC /* MPBaseViewController.m in Sources */,
 				EB5105091FD57DE5007883FC /* MPWebLine.m in Sources */,
-				EB5105241FD5854C007883FC /* MPSearchViewController.m in Sources */,
+				EB5105501FD5889D007883FC /* MPBuyTicketsViewController.m in Sources */,
 				EB5105151FD58239007883FC /* MPBaseNavigationController.m in Sources */,
-				EB51052A1FD58603007883FC /* MPBuyTicketsViewController.m in Sources */,
 				8445DDE61FD52E4700932165 /* MPAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
